@@ -1,0 +1,29 @@
+.input{
+  margin: 20px;
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.button {
+  height: 50px;
+  font-size: 25px;
+  background-color: rgb(178, 104, 247);
+  border-radius: 10px;
+}
+.titlePost{
+font-size: 34px;
+margin: 20px;
+color: rgb(7, 7, 129);
+}
+.bodyPost{
+font-size: 24px;
+}
+.post {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+
+}
